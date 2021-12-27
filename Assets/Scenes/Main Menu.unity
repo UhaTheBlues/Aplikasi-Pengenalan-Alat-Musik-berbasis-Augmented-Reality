@@ -334,19 +334,19 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a9c5af95dd5002543bd7572ad85a72b5, type: 3}
-    m_FontSize: 70
+    m_Font: {fileID: 12800000, guid: e22cfc8449b1f1e458766623a8064ea5, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 5
-    m_MaxSize: 70
+    m_MinSize: 0
+    m_MaxSize: 100
     m_Alignment: 4
     m_AlignByGeometry: 0
-    m_RichText: 1
+    m_RichText: 0
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Start AR
+  m_Text: START AR
 --- !u!222 &144256006
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -411,8 +411,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a9c5af95dd5002543bd7572ad85a72b5, type: 3}
-    m_FontSize: 70
+    m_Font: {fileID: 12800000, guid: e22cfc8449b1f1e458766623a8064ea5, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 5
@@ -423,7 +423,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: informasi
+  m_Text: Informasi
 --- !u!222 &160272975
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1469,8 +1469,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a9c5af95dd5002543bd7572ad85a72b5, type: 3}
-    m_FontSize: 70
+    m_Font: {fileID: 12800000, guid: e22cfc8449b1f1e458766623a8064ea5, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 5
@@ -1481,7 +1481,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: keluar
+  m_Text: Keluar
 --- !u!222 &1066224206
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1748,8 +1748,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a9c5af95dd5002543bd7572ad85a72b5, type: 3}
-    m_FontSize: 50
+    m_Font: {fileID: 12800000, guid: e22cfc8449b1f1e458766623a8064ea5, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 5
@@ -1760,7 +1760,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Download picture
+  m_Text: Download Image
 --- !u!222 &1440189050
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1825,8 +1825,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a9c5af95dd5002543bd7572ad85a72b5, type: 3}
-    m_FontSize: 70
+    m_Font: {fileID: 12800000, guid: e22cfc8449b1f1e458766623a8064ea5, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 5
@@ -1837,7 +1837,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: game
+  m_Text: Kuis
 --- !u!222 &1474212788
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2486,8 +2486,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a9c5af95dd5002543bd7572ad85a72b5, type: 3}
-    m_FontSize: 70
+    m_Font: {fileID: 12800000, guid: e22cfc8449b1f1e458766623a8064ea5, type: 3}
+    m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 5
@@ -2498,7 +2498,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: tentang aplikasi
+  m_Text: Tentang Aplikasi
 --- !u!222 &2086748627
 CanvasRenderer:
   m_ObjectHideFlags: 0

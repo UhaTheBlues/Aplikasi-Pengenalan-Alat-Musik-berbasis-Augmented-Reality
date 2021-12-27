@@ -9,21 +9,21 @@ public class StartAR : MonoBehaviour{
 
     public void kemainmenu()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(0);
     }
 
     public void MasukAR()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 
     public void MasukGame()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(2);
     }
     public void MasukInformasi()
     {
-        SceneManager.LoadScene(4);
+        SceneManager.LoadScene(3);
     }
 
     public void QuitGame()
